@@ -1,0 +1,7 @@
+/tokenizer/tokenizer.o
+/manipulateBinaryFiles/BinaryFileAHandler.o
+/manipulateBinaryFiles/BinaryFileBHandler.o
+/manipulateBinaryFiles/BinaryFileCHandler.o
+/manipulateBinaryFiles/GeneralBinaryFileHandler.o
+/manipulateBinaryFiles/specialTokens.o
+/main.o
